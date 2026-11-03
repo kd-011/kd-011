@@ -1,6 +1,6 @@
 # Kyle
 
-Australian. I got sick of there being no good 3D printer apps, so I built [Hotend](https://hotend.app). The rest are tools for the other problems I kept hitting: a homelab I couldn't keep track of, a budget that never matched my pay.
+Australian. I got sick of there being no good 3D printer apps, so I built [Hotend](https://hotend.app). Same deal with most of the rest: homelab tools, and a budget app that runs on your pay cycle instead of the calendar month.
 
 <table>
   <tr>
