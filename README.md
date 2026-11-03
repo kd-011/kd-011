@@ -1,4 +1,4 @@
-<img src=".github/banner.svg" alt="kd-011: it's not a hobby, it's infrastructure." width="100%">
+<img src=".github/banner.svg" alt="kd-011: I build the tools I couldn't find." width="100%">
 
 Australian. There were no good 3D printer apps and I got sick of waiting for one, so I built [Hotend](https://hotend.app). A few homelab tools and a budget app on the open banking API came out of the same impatience.
 
@@ -23,7 +23,7 @@ I work with AI agents and keep everything small and dull on purpose: no dependen
   </tr>
 </table>
 
-## What's here
+<img src=".github/h-whats-here.svg" alt="What's here" width="100%">
 
 | | | |
 | --- | --- | --- |
@@ -37,6 +37,6 @@ I work with AI agents and keep everything small and dull on purpose: no dependen
 | [**dossier-scribe**](https://github.com/kd-011/dossier-scribe) | Points at the sentence in your docs that went stale when the file it cites changed. | JS |
 | [**party-games**](https://github.com/kd-011/party-games) | 15 party games for one room. Everyone joins on their phone, no app, no accounts. | JS |
 
-## Learning
+<img src=".github/h-learning.svg" alt="Learning" width="100%">
 
 I'm learning to read and write what the agents produce: Python first, then JavaScript and Go, since that's what the above is written in. If you spot something in my code a beginner shouldn't copy, open an issue. I'd rather know.
