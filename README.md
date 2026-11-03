@@ -1,6 +1,6 @@
 # Kyle
 
-Australian, building small tools for my own problems: a printer that kept stopping (now [Hotend](https://hotend.app)), a homelab I couldn't keep track of, a budget that never matched my pay. Most of it is weeks old, so expect rough edges.
+Australian. I got sick of there being no good 3D printer apps, so I built [Hotend](https://hotend.app). The rest are tools for the other problems I kept hitting: a homelab I couldn't keep track of, a budget that never matched my pay.
 
 <table>
   <tr>
