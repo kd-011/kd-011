@@ -1,6 +1,6 @@
 Australian. I got sick of there being no good 3D printer apps, so I built [Hotend](https://hotend.app). Same deal with most of the rest: homelab tools, and a budget app using the open banking API.
 
-I build with AI agents and keep the tools small: usually zero dependencies, one SQLite file where there's a database, nothing uploaded.
+I work with AI agents and keep everything small and dull on purpose: no dependencies where I can help it, a single SQLite file instead of a database server, and nothing sent off your machine.
 
 <table>
   <tr>
