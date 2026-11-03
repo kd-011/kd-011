@@ -1,4 +1,4 @@
-<img src=".github/banner.svg" alt="kd-011: I build the tools I couldn't find." width="100%">
+<img src=".github/banner.svg" alt="kd-011" width="100%">
 
 There were no good 3D printer apps and I got sick of waiting for one, so I built [Hotend](https://hotend.app). So much more came out of the same impatience.
 
@@ -6,18 +6,18 @@ There were no good 3D printer apps and I got sick of waiting for one, so I built
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/kd-011/klipper-doctor"><img src="https://raw.githubusercontent.com/kd-011/klipper-doctor/main/.github/social-preview.png" alt="klipper-doctor explaining a heater error from a klippy.log"></a>
+      <a href="https://github.com/kd-011/klipper-doctor"><img src=".github/cards/klipper-doctor.png" alt="klipper-doctor explaining a heater error from a klippy.log"></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kd-011/party-games"><img src="https://raw.githubusercontent.com/kd-011/party-games/main/.github/social-preview.png" alt="party-games home screen with a grid of game cards"></a>
+      <a href="https://github.com/kd-011/hotend-agent"><img src=".github/cards/hotend-agent.png" alt="hotend-agent, the printer-side agent for Hotend"></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/kd-011/unlisted"><img src="https://raw.githubusercontent.com/kd-011/unlisted/main/.github/social-preview.png" alt="unlisted"></a>
+      <a href="https://github.com/kd-011/party-games"><img src=".github/cards/party-games.png" alt="party-games home screen with a grid of game cards"></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kd-011/restore-drill"><img src="https://raw.githubusercontent.com/kd-011/restore-drill/main/.github/social-preview.png" alt="restore-drill"></a>
+      <a href="https://github.com/kd-011/unlisted"><img src=".github/cards/unlisted.png" alt="unlisted"></a>
     </td>
   </tr>
 </table>
