@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="kd-011">
+  <rect width="1200" height="160" rx="16" fill="#0b0b0d"/>
+  <rect x="0" y="148" width="1200" height="12" fill="#ff7a18"/>
+  <g transform="translate(48 24) scale(0.2)">
+    <circle cx="230" cy="230" r="215" fill="#0b0b0d" stroke="#ff7a18" stroke-width="12"/>
+    <circle cx="230" cy="165" r="88" fill="#ff7a18"/>
+    <path d="M110 405 V335 Q110 260 190 255 H270 Q350 260 350 335 V405 Q290 440 230 440 Q170 440 110 405 Z" fill="#ff7a18"/>
+    <rect x="160" y="345" width="36" height="95" fill="#0b0b0d"/>
+    <rect x="264" y="345" width="36" height="95" fill="#0b0b0d"/>
+  </g>
+  <text x="180" y="78" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="44" font-weight="700" fill="#ffffff">kd-011</text>
+  <text x="180" y="116" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="24" fill="#ff7a18">It's not a hobby, it's infrastructure.</text>
+</svg>
