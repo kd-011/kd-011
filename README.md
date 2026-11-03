@@ -1,4 +1,4 @@
-Australian. I got sick of there being no good 3D printer apps, so I built [Hotend](https://hotend.app). Same deal with most of the rest: homelab tools, and a budget app using the open banking API.
+Australian. There were no good 3D printer apps and I got sick of waiting for one, so I built [Hotend](https://hotend.app). A few homelab tools and a budget app on the open banking API came out of the same impatience.
 
 I work with AI agents and keep everything small and dull on purpose: no dependencies where I can help it, a single SQLite file instead of a database server, and nothing sent off your machine.
 
