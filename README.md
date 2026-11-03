@@ -1,8 +1,7 @@
 <img src=".github/banner.svg" alt="kd-011: I build the tools I couldn't find." width="100%">
 
-There were no good 3D printer apps and I got sick of waiting for one, so I built [Hotend](https://hotend.app). A few homelab tools and a budget app on the open banking API came out of the same impatience.
+There were no good 3D printer apps and I got sick of waiting for one, so I built [Hotend](https://hotend.app). So much more came out of the same impatience.
 
-I work with AI agents and keep everything small and dull on purpose: no dependencies where I can help it, and a SQLite file instead of a database server.
 
 <table>
   <tr>
