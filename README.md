@@ -1,8 +1,6 @@
 # Kyle
 
-I live in Australia and build small tools for problems I actually have, mostly with AI agents doing the typing, and I'm getting better at reading what they write.
-
-A 3D printer that kept stopping turned into [Hotend](https://hotend.app). A homelab I couldn't keep track of turned into a few CLIs. A budget that never matched my pay turned into Mint. Most of this is a few weeks old, so expect rough edges.
+Australian, building small tools for my own problems: a printer that kept stopping (now [Hotend](https://hotend.app)), a homelab I couldn't keep track of, a budget that never matched my pay. Most of it is weeks old, so expect rough edges.
 
 <table>
   <tr>
@@ -39,4 +37,4 @@ A 3D printer that kept stopping turned into [Hotend](https://hotend.app). A home
 
 ## Learning
 
-Python first, then JavaScript and Go, since that's what the above is written in. If you spot something in my code a beginner shouldn't copy, open an issue. I'd rather know.
+I build with AI agents and I'm learning to read and write what they produce: Python first, then JavaScript and Go, since that's what the above is written in. If you spot something in my code a beginner shouldn't copy, open an issue. I'd rather know.
