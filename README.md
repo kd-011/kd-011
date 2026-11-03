@@ -1,5 +1,3 @@
-# Kyle
-
 Australian. I got sick of there being no good 3D printer apps, so I built [Hotend](https://hotend.app). Same deal with most of the rest: homelab tools, and a budget app using the open banking API.
 
 <table>
