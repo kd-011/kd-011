@@ -1,6 +1,6 @@
 # Kyle
 
-Australian. I got sick of there being no good 3D printer apps, so I built [Hotend](https://hotend.app). Same deal with most of the rest: homelab tools, and a budget app that runs on your pay cycle instead of the calendar month.
+Australian. I got sick of there being no good 3D printer apps, so I built [Hotend](https://hotend.app). Same deal with most of the rest: homelab tools, and a budget app using the open banking API.
 
 <table>
   <tr>
@@ -27,7 +27,7 @@ Australian. I got sick of there being no good 3D printer apps, so I built [Hoten
 | --- | --- | --- |
 | [**klipper-doctor**](https://github.com/kd-011/klipper-doctor) | Paste a `klippy.log`, get told why Klipper stopped and what to try. Also an [MCP server](https://github.com/kd-011/klipper-doctor-mcp) for agents. | JS |
 | [**hotend-agent**](https://github.com/kd-011/hotend-agent) | The bit of [Hotend](https://hotend.app) that runs on your printer. Published so you can read what it does. | Go |
-| [**mint**](https://github.com/kd-011/mint) | Self-hosted budgeting where the period follows your pay, not the calendar. One SQLite file, ATO deduction tags. | JS |
+| [**mint**](https://github.com/kd-011/mint) | Self-hosted budgeting using the open banking API, or CSV import. One SQLite file, ATO deduction tags. | JS |
 | [**au-bizdays**](https://github.com/kd-011/au-bizdays) | Business days and deadlines with the right public holidays for each Australian state. CLI and MCP. | JS |
 | [**unlisted**](https://github.com/kd-011/unlisted) | Diffs what your homelab exposes against what you wrote down, and shows the gap. | Go |
 | [**restore-drill**](https://github.com/kd-011/restore-drill) | Restores your newest backup somewhere safe, checks it, and tells you when it fails. | JS |
